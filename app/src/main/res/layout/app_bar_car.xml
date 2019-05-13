@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.design.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    tools:context=".CarActivity">
+
+    <include layout="@layout/content_car" />
+
+    <Button
+        android:id="@+id/btn_refill"
+        android:scaleX="1.2"
+        android:scaleY="1.2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="40dp"
+        android:layout_gravity="bottom|center_horizontal"
+        android:text="@string/refuel"
+        android:background="@drawable/button_refill_background"/>
+
+</android.support.design.widget.CoordinatorLayout>

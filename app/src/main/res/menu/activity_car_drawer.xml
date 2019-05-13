@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group
+        android:checkableBehavior="single"
+        android:id="@+id/drawer_cars_menu"/>
+    <item   android:title="@string/your_cars"
+            android:id="@+id/you_cars_group">
+        <menu>
+            <item
+                android:id="@+id/drawer_btn_add_car"
+                android:icon="@mipmap/baseline_add_black_18dp"
+                android:title="@string/add_car"/>
+        </menu>
+    </item>
+
+    <item android:title="@string/settings">
+        <menu>
+            <item
+                android:id="@+id/drawer_btn_settings"
+                android:title="@string/app_settings"
+                android:icon="@mipmap/baseline_settings_black_18dp"/>
+        </menu>
+    </item>
+
+</menu>

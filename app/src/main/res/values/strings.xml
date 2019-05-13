@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">cars_fuel_android</string>
+    <string name="ok">Ok</string>
+    <string name="cancel">Cancel</string>
+    <string name="refuel">Refuel</string>
+    <string name="settings">Settings</string>
+    <string name="app_settings">Application Settings</string>
+    <string name="your_cars">Your cars</string>
+    <string name="add_car">Add new car</string>
+    <string name="navigation_drawer_open">!</string>
+    <string name="navigation_drawer_close">!</string>
+    <string name="last_refill">Last refill:</string>
+    <string name="all_spent">All money spent:</string>
+    <string name="avg_spent">Average refill bill:</string>
+    <string name="all_gas">All fuel consumed:</string>
+    <string name="avg_cost">Average fuel cost:</string>
+    <string name="units">Units</string>
+    <string name="currency">Currency</string>
+    <string name="volume">Volume</string>
+    <string name="fuel_types">Fuel types</string>
+    <string name="fuel_type">Fuel type</string>
+    <string name="make">Make</string>
+    <string name="model">Model</string>
+    <string name="year">Year</string>
+    <string name="mileage">Mileage</string>
+    <string name="input_mileage">Input mileage</string>
+    <string name="count">Count</string>
+    <string name="cost">Cost</string>
+    <string name="avg_econ">Average fuel economy:</string>
+    <string name="distance">Distance</string>
+    <string name="incorrect_data">Inputted Incorrect Data</string>
+</resources>

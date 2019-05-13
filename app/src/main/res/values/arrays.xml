@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="currency">
+        <item>Dollar</item>
+        <item>Euro</item>
+        <item>GBP</item>
+        <item>Russian Ruble</item>
+        <item>Yen</item>
+    </array>
+
+    <array name="cur_abbr">
+        <item>$</item>
+        <item>€</item>
+        <item>£</item>
+        <item>₽</item>
+        <item>¥</item>
+    </array>
+
+    <array name="volume">
+        <item>Gallons</item>
+        <item>Liters</item>
+    </array>
+
+    <array name="volume_abbr">
+        <item>gal.</item>
+        <item>l.</item>
+    </array>
+    
+    <array name="distance">
+        <item>Miles</item>
+        <item>Kilometers</item>
+    </array>
+    
+    <array name="distance_abbr">
+        <item>mi.</item>
+        <item>km.</item>
+    </array>
+
+    <array name="fuel_types">
+        <item>North American/British</item>
+        <item>European</item>
+        <item>German</item>
+        <item>CIS</item>
+        <item>Japan</item>
+    </array>
+    
+    <array name="fuel_abbr">
+        <item>USA</item>
+        <item>EU</item>
+        <item>GER</item>
+        <item>CIS</item>
+        <item>JP</item>
+    </array>
+
+    <array name="USA">
+        <item>Regular - 87</item>
+        <item>Premium - 89</item>
+        <item>Super - 93</item>
+        <item>Special - 100+</item>
+        <item>Truck diesel</item>
+        <item>Power diesel</item>
+        <item>E75 - Ethanol 75%</item>
+        <item>E85 - Ethanol 85%</item>
+    </array>
+
+    <array name="USA_abbr">
+        <item>87</item>
+        <item>89</item>
+        <item>93</item>
+        <item>100+</item>
+        <item>TD</item>
+        <item>PD</item>
+        <item>E75</item>
+        <item>E85</item>
+    </array>
+
+    <array name="EU">
+        <item>Normal</item>
+        <item>Super</item>
+        <item>Super Plus</item>
+        <item>Racing (100+)</item>
+        <item>Diesel</item>
+    </array>
+
+    <array name="EU_abbr">
+        <item>Norm</item>
+        <item>Sup</item>
+        <item>Sup+</item>
+        <item>RS</item>
+        <item>D</item>
+    </array>
+
+    <array name="GER">
+        <item>Benzin - 91</item>
+        <item>Super - 95</item>
+        <item>Super E10 - Ethanol 10%</item>
+        <item>Super Plus - 98</item>
+        <item>Ultimate - 102+</item>
+        <item>Diesel</item>
+    </array>
+
+    <array name="GER_abbr">
+        <item>91</item>
+        <item>95</item>
+        <item>E10</item>
+        <item>98</item>
+        <item>102+</item>
+        <item>D</item>
+    </array>
+
+    <array name="CIS">
+        <item>A-76</item>
+        <item>A-80</item>
+        <item>AI-92</item>
+        <item>AI-95</item>
+        <item>AI-98</item>
+        <item>AI-100+</item>
+        <item>Diesel - Low Quality</item>
+        <item>Diesel - High Quality</item>
+    </array>
+
+    <array name="CIS_abbr">
+        <item>76</item>
+        <item>80</item>
+        <item>92</item>
+        <item>95</item>
+        <item>98</item>
+        <item>100+</item>
+        <item>DT</item>
+        <item>DT+</item>
+    </array>
+
+    <array name="JP">
+        <item>Regular</item>
+        <item>Premium</item>
+        <item>Diesel</item>
+    </array>
+
+    <array name="JP_abbr">
+        <item>REG</item>
+        <item>PREM</item>
+        <item>D</item>
+    </array>
+
+    <array name="make">
+        <item>AutoVAZ</item>
+        <item>Chevrolet</item>
+        <item>Other</item>
+    </array>
+</resources>
